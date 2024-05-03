@@ -5,7 +5,7 @@
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego251Fagundes&theme=midnight-purple)
 
-## Tecnologias
+## 💻Tecnologias
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="java"src="https://img.shields.io/badge/Java-ec5353?style=for-the-badge&logo=openjdk&logoColor=white"/>
