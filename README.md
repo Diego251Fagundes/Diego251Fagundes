@@ -19,15 +19,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego251Fagundes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> <br/>
-![](https://github-readme-stats.vercel.app/api?username=Diego251Fagundes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Diego251Fagundes&theme=radical&hide_border=false)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Diego251Fagundes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Diego251Fagundes&icon=0&color=4)](https://visitcount.itsvg.in)
