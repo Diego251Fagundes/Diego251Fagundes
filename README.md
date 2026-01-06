@@ -4,7 +4,7 @@
 🖥️ Sharing my journey and experiences in tech.  
 🎓 Studying Software Engineering at Universidade de Mogi das Cruzes, São Paulo, Brazil.  
 🌟 Passionate about solving problems, building web applications, and learning new technologies.  
-💼 Looking for internships and collaboration opportunities in web development and back-end development.  
+💼 Actively seeking internship opportunities in Web and Back-end Development 
 🌱 Always eager to explore modern tools and frameworks to expand my skill set.  
 
 ## 🌐 Socials:
